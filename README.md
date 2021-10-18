@@ -1,2 +1,2 @@
 # Thesis-Files
-Files used to program thesis analysis
+Files used to program thesis analysis and graphics
